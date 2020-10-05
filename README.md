@@ -27,6 +27,5 @@ The analysis of the election shows that:
 - The winner of the election was:
   - Diana DeGette, who received "73.8%" of the vote and "272,892" number of votes.
   
-## Challenge Overview
-
-## Challenge Summary
+## Election Audit Summary
+This script could be transferred to any election. The first would be by changing which election results are being accessed. At the beginning of our code we referenced to the CSV doc with these election results. In order to use it for other elections, we would need to dchange the csv doc being activated to the other election results. While I struggled to get together the county turnout results. The same logic can be used to determine voter turnout by city, state, or politcal party if that information is available in the other elections CSV file.
